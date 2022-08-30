@@ -25,6 +25,7 @@ const Header = () => {
         width={200}
         height={80}
         className="object-contain"
+        alt=''
       />
     </header>
   );

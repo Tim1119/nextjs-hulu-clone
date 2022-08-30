@@ -19,7 +19,7 @@ function Home({ results }) {
     </div>
   );
 }
-Home.displayName = "Hulu Clone";
+
 export default Home;
 export async function getServerSideProps(context) {
   const genre = context.query.genre;
