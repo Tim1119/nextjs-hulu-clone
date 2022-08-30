@@ -36,5 +36,5 @@ const Thumbnail = forwardRef(({ result }, ref) => {
     </div>
   );
 });
-Thumbnail.displayName = 'MyApp'
+
 export default Thumbnail;
