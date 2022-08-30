@@ -1,5 +1,5 @@
 # HULU Clone using Next Js
-I created a fully responsive HULU clone using nextjs.js,tailwind css,vercel and free tmdb api. It shows several genres and netflix trending movies.  The link to the website is [nextjs-hulu-clone-git-main-tim1119.vercel.app](https://nextjs-hulu-clone-tim1119.vercel.app/)
+I created a fully responsive HULU clone using nextjs,hero-icons,tailwind css,vercel and free tmdb api. It shows several genres and netflix trending movies.  The link to the website is [nextjs-hulu-clone-git-main-tim1119.vercel.app](https://nextjs-hulu-clone-tim1119.vercel.app/)
 
 
 
