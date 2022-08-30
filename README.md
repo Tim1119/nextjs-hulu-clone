@@ -6,11 +6,11 @@ I created a fully responsive HULU clone using nextjs.js,tailwind css,vercel and 
 
 
 
-#Image 1
+# Image 1 for desktop
 ![image1.PNG](https://github.com/Tim1119/nextjs-hulu-clone/blob/main/public/image1.PNG?raw=true)
 
-#Image 2
+# Image 2 for 4k screens
 ![image2.PNG](https://github.com/Tim1119/nextjs-hulu-clone/blob/main/public/image2.PNG?raw=true)
 
-#Image 3
+#Image 3 for mobile
 ![image3.PNG](https://github.com/Tim1119/nextjs-hulu-clone/blob/main/public/image3.PNG?raw=true)
