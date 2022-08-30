@@ -1,7 +1,7 @@
 import React from "react";
 import requests from "../utils/requests";
 import { useRouter } from "next/router";
-const Navbar = () => {
+export default function Navbar(){
   const router = useRouter();
   return (
     <nav className="relative">
@@ -21,4 +21,3 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
